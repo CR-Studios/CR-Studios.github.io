@@ -1,1 +1,2 @@
-# Welcome To The official webpage of R Code Studios
+# R Code Studios
+Welcome to the official web-site of R code Studios
